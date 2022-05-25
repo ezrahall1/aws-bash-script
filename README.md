@@ -23,7 +23,7 @@ For the instance type make sure you select free tier eligible or you would be ch
 
 
 <H3>Step 2 – Connecting to EC2 instance </H3>
-Once the EC2 instance is in a running state you would need connect to it. Right click and select connect.
+Once the EC2 instance is in a running state you would need to connect to it. Right click and select connect.
 
 <img src="https://i.imgur.com/kaoMGqH.png" height="80%" width="80%" alt="Image 2"/>
 
