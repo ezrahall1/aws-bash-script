@@ -36,7 +36,7 @@ Once you have successfully connected to your EC2 instance using Putty you should
 <img src="https://i.imgur.com/wsd36ox.png" height="80%" width="80%" alt="Image 4"/>
 
 <H3>Step 3 – Creating bash script and variables</H3>
-The next step is you need to create the bash script name for example testscript.sh and create the variables in a text editor.
+The next step is you need to create the bash script name for example testscript.sh and create the variables in a text editor using this command nano testscript.sh .
 
 <img src="https://i.imgur.com/nb0aNT5.png" height="80%" width="80%" alt="Image 5"/>
 
