@@ -35,8 +35,6 @@ There are many applications you can use to connect your EC2 instance. For this p
 Once you have successfully connected to your EC2 instance using Putty you should see something like this:
 <img src="https://i.imgur.com/wsd36ox.png" height="80%" width="80%" alt="Image 4"/>
 
-<br />
-<br />
 <H3>Step 3 – Creating bash script and variables</H3>
 The next step is you need to create the bash script name for example testscript.sh and create the variables in a text editor.
 
