@@ -1,0 +1,4 @@
+
+nano testscript.sh
+chmod +x testscript.sh
+./testscript.sh
