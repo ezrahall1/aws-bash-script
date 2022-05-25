@@ -37,19 +37,16 @@ Once you have successfully connected to your EC2 instance using Putty you should
 
 <br />
 <br />
-<H3>Step 3 – Creating bash script and varruables</H3>
+<H3>Step 3 – Creating bash script and variables</H3>
 The next step is you need to create the bash script name for example testscript.sh and create the variables in a text editor.
 
 <img src="https://i.imgur.com/nb0aNT5.png" height="80%" width="80%" alt="Image 5"/>
 
-The next step is you need to grant permissions to be able to read these objects. You would need to create a bucket policy. Click on the permission tab scroll down to where is says bucket policy click on edit. When entering the policy details remember to update the arn so it is not the same as mine or else it would not work, click on save changes.
-<img src="https://i.imgur.com/mlZjKBx.png" height="80%" width="80%" alt="Image 9"/>
-Based on the policy you have created you will now see a red banner stating, “publicly accessible”, which means the bucket can be access by anyone.
+Once you have enter your script you would need to save it and make the bash script executable by running command chmod +x testscript.sh.
 
-<img src="https://i.imgur.com/PGbBV1i.png" height="80%" width="80%" alt="Image 10"/>
+Now the you are able to run the bash script using the command ./testscript.sh
 
-This shows that I successfully created a static website in AWS
-<img src="https://i.imgur.com/c8KFtkW.png" height="80%" width="80%" alt="Image 10"/>
+<img src="https://i.imgur.com/WtDE4tp.png" height="80%" width="80%" alt="Image 6"/>
 
 </p>
 
