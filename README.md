@@ -7,7 +7,7 @@ In this project I will demonstrate how to create a simple bash script and execut
 
 <h2>Services Used</h2>
 
-- <b>S3</b> 
+- <b>EC2</b> 
 
 <h2>Environments Used </h2>
 
