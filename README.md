@@ -21,7 +21,7 @@ Once you have log into the AWS account you would need to click on services and n
 For the instance type make sure you select free tier eligible or you would be charged. Create a new key pair if you do not already have one. In the network settings section leave allow SSH traffic from ticked. Leave the rest as default and click launch instance.
 
 
-
+<img src="[https://i.imgur.com/O3PUwO6.png](https://imgur.com/a/ZKjtOiE)" height="80%" width="80%" alt="Image 1"/>
 
 <br />
 <H3>Step 2 – Connecting to EC2 instance </H3>
