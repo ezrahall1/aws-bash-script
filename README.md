@@ -12,6 +12,7 @@ In this project I will demonstrate how to create a simple bash script and execut
 <h2>Environments Used </h2>
 
 - <b>AWS</b>
+- <b>Putty</b>
 
 <h2>Program walk-through:</h2>
 <H3>Step 1 - Creating EC2 instance</H3>
@@ -21,6 +22,7 @@ For the instance type make sure you select free tier eligible or you would be ch
 
 
 <img src="https://i.imgur.com/O3PUwO6.png" height="80%" width="80%" alt="Image 1"/>
+
 
 <br />
 <H3>Step 2 – Connecting to EC2 instance </H3>
