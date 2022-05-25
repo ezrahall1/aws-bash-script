@@ -31,7 +31,7 @@ Once the EC2 instance is running you would need connect to it. Right click and s
 
 
 
-There are many applications you can use to connect your EC2 instance. For this project I will be using Putty[https://www.putty.org/].
+There are many applications you can use to connect your EC2 instance. For this project I will be using [Putty] (https://www.putty.org).
 
 Click on the name of your bucket, then click on properties scroll down to the bottom where it says static website hosting and click on edit. Click on enable and make sure host a static website is selected.
 <img src="https://i.imgur.com/D92cAzu.png" height="80%" width="80%" alt="Image 4"/>
