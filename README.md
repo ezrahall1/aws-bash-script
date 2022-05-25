@@ -31,7 +31,7 @@ Once the EC2 instance is in a running state you would need to connect to it. Rig
 
 
 
-There are many applications you can use to connect your EC2 instance. For this project I will be using [Putty](https://www.putty.org).
+There are many applications you can use to connect to your EC2 instance. For this project I will be using [Putty](https://www.putty.org).
 Once you have successfully connected to your EC2 instance using Putty you should see something like this:
 <img src="https://i.imgur.com/wsd36ox.png" height="80%" width="80%" alt="Image 4"/>
 
