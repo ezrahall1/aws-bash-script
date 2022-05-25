@@ -33,8 +33,10 @@ Once the EC2 instance is running you would need connect to it. Right click and s
 
 There are many applications you can use to connect your EC2 instance. For this project I will be using [Putty](https://www.putty.org).
 
-Click on the name of your bucket, then click on properties scroll down to the bottom where it says static website hosting and click on edit. Click on enable and make sure host a static website is selected.
-<img src="https://i.imgur.com/D92cAzu.png" height="80%" width="80%" alt="Image 4"/>
+Once you have successfully connected to your EC2 instance using Putty you should see something like this:
+<img src="https://i.imgur.com/wsd36ox.png" height="80%" width="80%" alt="Image 4"/>
+
+
 <br />
 <br />
 In the index document section make sure you have added index.html and error.html in the correct text area, click save changes.
