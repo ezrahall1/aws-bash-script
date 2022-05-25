@@ -22,21 +22,8 @@ For the instance type make sure you select free tier eligible or you would be ch
 
 <img src="https://i.imgur.com/O3PUwO6.png" height="80%" width="80%" alt="Image 1"/>
 
-Scroll down and untick block all public access. This is a safety feature of S3, but because you are intentionally creating a S3 bucket to be used as a static website, you need to untick this box. Unticking this box means that you will be able to grant public access. It does not mean that public access is granted automatically.
 <br />
-<br />
-<img src="https://i.imgur.com/YLFvbiO.png" height="80%" width="80%" alt="Image 2"/>
-<br />
-<br />
-Tick the acknowledge box to show that you understand the changes you are making. <br/>
-<img src="https://i.imgur.com/vn34t2z.png" height="80%" width="80%" alt="Image 3"/>
-<br />
-<br />
-Leave everything else as default scroll to the bottom and click create bucket. <br/>
-<img src="https://i.imgur.com/OlsCav4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<H3>Step 2 – Enable static website hosting </H3>
+<H3>Step 2 – Connecting to EC2 instance </H3>
 Click on the name of your bucket, then click on properties scroll down to the bottom where it says static website hosting and click on edit. Click on enable and make sure host a static website is selected.
 <img src="https://i.imgur.com/D92cAzu.png" height="80%" width="80%" alt="Image 4"/>
 <br />
