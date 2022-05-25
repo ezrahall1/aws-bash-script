@@ -1,4 +1,5 @@
 Commands used:
 nano testscript.sh
 chmod +x testscript.sh
+ls -l
 ./testscript.sh
