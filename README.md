@@ -22,7 +22,7 @@ For the instance type make sure you select free tier eligible or you would be ch
 
 <img src="https://i.imgur.com/fdVAGzB.png" height="80%" width="80%" alt="Image 1"/>
 
-<br />
+
 <H3>Step 2 – Connecting to EC2 instance </H3>
 Once the EC2 instance is running you would need connect to it. Right click and select connect.
 
