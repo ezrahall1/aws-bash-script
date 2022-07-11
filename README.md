@@ -17,6 +17,9 @@ In this project I will demonstrate how to create a simple bash script and execut
 <h2>YouTube Demonstration </h2>
 [Creating bash script in AWS video walk-through](https://youtu.be/GOg6z4CBDLI)
 
+[Creating bash script in AWSh](https://youtu.be/GOg6z4CBDLI)
+
+
 <h2>Program walk-through:</h2> 
 <H3>Step 1 - Creating EC2 instance</H3>
 Once you have log into the AWS account you would need to click on services and navigate to EC2. Enter the name of the EC2 select Amazon Linux, make sure the Amazon Machine Image (AMI) says free tier eligible.
