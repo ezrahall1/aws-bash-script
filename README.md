@@ -25,15 +25,11 @@ In this project I will demonstrate how I created a simple bash script and execut
 Once I logged into my AWS account, I clicked on services and navigated to EC2. From there I entered the name of the EC2 instance and select Amazon Linux.
 In the network settings section I left "allow SSH traffic from" ticked as well as leaving the rest of the settings as defualt and clicking launch instance.
 
-
-Once you have log into the AWS account you would need to click on services and navigate to EC2. Enter the name of the EC2 select Amazon Linux, make sure the Amazon Machine Image (AMI) says free tier eligible.
-For the instance type make sure you select free tier eligible or you would be charged. Create a new key pair if you do not already have one. In the network settings section leave "allow SSH traffic from" ticked. Leave the rest as default and click launch instance.
-
 <img src="https://i.imgur.com/fdVAGzB.png" height="80%" width="80%" alt="Image 1"/>
 
 
 <H3>Step 2 – Connecting to EC2 instance </H3>
-Once the EC2 instance is in a running state you would need to connect to it.
+Once the EC2 instance was in a running state I connected to it.
 
 <img src="https://i.imgur.com/kaoMGqH.png" height="80%" width="80%" alt="Image 2"/>
 
@@ -41,11 +37,13 @@ Once the EC2 instance is in a running state you would need to connect to it.
 
 
 
-There are many applications you can use to connect to your EC2 instance. For this project I will be using [Putty](https://www.putty.org).
+There are many applications you can use to connect to your EC2 instance. For this project I used [Putty](https://www.putty.org).
 Once you have successfully connected to your EC2 instance using Putty you should see something like this:
 <img src="https://i.imgur.com/wsd36ox.png" height="80%" width="80%" alt="Image 4"/>
 
 <H3>Step 3 – Creating bash script and variables</H3>
+The final step is creating the the bash script name for example testscript.sh and create the variables in a text editor using this command nano testscript.sh.
+
 The next step is you need to create the bash script name for example testscript.sh and create the variables in a text editor using this command nano testscript.sh .
 
 <img src="https://i.imgur.com/nb0aNT5.png" height="80%" width="80%" alt="Image 5"/>
