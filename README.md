@@ -16,6 +16,7 @@ In this project I will demonstrate how to create a simple bash script and execut
 
 <h2>YouTube Demonstration </h2>
 Video walk guide 
+
 [Creating bash script in AWS](https://youtu.be/GOg6z4CBDLI)
 
 <h2>Program walk-through:</h2> 
