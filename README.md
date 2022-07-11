@@ -22,7 +22,7 @@ In this project I will demonstrate how I created a simple bash script and execut
 <h2>Program walk-through:</h2> 
 <H3>Step 1 - Creating EC2 instance</H3>
 
-Once I logged into my AWS account, I clicked on services and navigate to EC2. From there I entered the name of the EC2 instanc and select Amazon Linux.
+Once I logged into my AWS account, I clicked on services and navigated to EC2. From there I entered the name of the EC2 instanc and select Amazon Linux.
 In the network settings section I left "allow SSH traffic from" ticked as well as leaving the rest of the seeting as defualt ad clicking launch instance.
 
 
