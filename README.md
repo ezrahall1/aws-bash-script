@@ -1,7 +1,7 @@
 <h1>Creating bash script in AWS</h1>
 
 <h2>Description</h2>
-In this project I will demonstrate how I created a simple bash script and execute it. Bash script is an important part of process automation in Linux. It saves you time because you don't have to write certain commands again and again. You can perform daily tasks efficiently and even schedule them for automatic execution.
+In this project I will demonstrate how I created a simple bash script and executed it. Bash script is an important part of process automation in Linux. It saves you time because you don't have to write certain commands again and again. You can perform daily tasks efficiently and even schedule them for automatic execution.
 <br />
 
 
