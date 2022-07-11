@@ -21,6 +21,11 @@ In this project I will demonstrate how I created a simple bash script and execut
 
 <h2>Program walk-through:</h2> 
 <H3>Step 1 - Creating EC2 instance</H3>
+
+Once I haved logged into my AWS account, I clicked on services and navigate to EC2. From there I entered the name of the EC2 instanc and select Amazon Linux.
+In the network settings section I left "allow SSH traffic from" ticked as well as leaving the rest of the seeting as defualt ad clicking launch instance.
+
+
 Once you have log into the AWS account you would need to click on services and navigate to EC2. Enter the name of the EC2 select Amazon Linux, make sure the Amazon Machine Image (AMI) says free tier eligible.
 For the instance type make sure you select free tier eligible or you would be charged. Create a new key pair if you do not already have one. In the network settings section leave "allow SSH traffic from" ticked. Leave the rest as default and click launch instance.
 
