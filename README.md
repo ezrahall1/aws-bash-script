@@ -15,9 +15,7 @@ In this project I will demonstrate how to create a simple bash script and execut
 - <b>Putty</b>
 
 <h2>YouTube Demonstration </h2>
-Video walk guide 
-
-[Creating bash script in AWS](https://youtu.be/GOg6z4CBDLI)
+[Creating bash script in AWS video walk-through](https://youtu.be/GOg6z4CBDLI)
 
 <h2>Program walk-through:</h2> 
 <H3>Step 1 - Creating EC2 instance</H3>
