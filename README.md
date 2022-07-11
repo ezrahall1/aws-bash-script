@@ -38,7 +38,6 @@ Once the EC2 instance was in a running state I connected to it.
 
 
 There are many applications you can use to connect to your EC2 instance. For this project I used [Putty](https://www.putty.org).
-
 This screenshot shows that I successfully connected to my EC2 instance using Putty:
 <img src="https://i.imgur.com/wsd36ox.png" height="80%" width="80%" alt="Image 4"/>
 
