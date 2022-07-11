@@ -46,7 +46,7 @@ The final step is creating the the bash script name for example testscript.sh an
 
 <img src="https://i.imgur.com/nb0aNT5.png" height="80%" width="80%" alt="Image 5"/>
 
-Once I had entered my script I would need to save it and make sure the bash script is executable by running this command **chmod +x testscript.sh**.
+Once I had entered my script I would need to save it and make sure the bash script is executable by running this command **chmod +x testscript.sh**. 
 Now I am able to run the bash script using the command ./testscript.sh
 
 <img src="https://i.imgur.com/WtDE4tp.png" height="80%" width="80%" alt="Image 6"/>
