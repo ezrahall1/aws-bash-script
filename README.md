@@ -38,18 +38,16 @@ Once the EC2 instance was in a running state I connected to it.
 
 
 There are many applications you can use to connect to your EC2 instance. For this project I used [Putty](https://www.putty.org).
-Once you have successfully connected to your EC2 instance using Putty you should see something like this:
+This screenshot shows that I successfully connected to my EC2 instance using Putty:
 <img src="https://i.imgur.com/wsd36ox.png" height="80%" width="80%" alt="Image 4"/>
 
 <H3>Step 3 – Creating bash script and variables</H3>
-The final step is creating the the bash script name for example testscript.sh and create the variables in a text editor using this command nano testscript.sh.
-
-The next step is you need to create the bash script name for example testscript.sh and create the variables in a text editor using this command nano testscript.sh .
+The final step is creating the the bash script name for example testscript.sh and creating the variables in a text editor using this command nano testscript.sh.
 
 <img src="https://i.imgur.com/nb0aNT5.png" height="80%" width="80%" alt="Image 5"/>
 
-Once you have enter your script you would need to save it and make the bash script is executable by running command chmod +x testscript.sh.
-Now you are able to run the bash script using the command ./testscript.sh
+Once I had entered my script I would need to save it and make sure the bash script is executable by running this command **chmod +x testscript.sh**.
+Now I am able to run the bash script using the command ./testscript.sh
 
 <img src="https://i.imgur.com/WtDE4tp.png" height="80%" width="80%" alt="Image 6"/>
 
