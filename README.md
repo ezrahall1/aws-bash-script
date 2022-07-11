@@ -42,7 +42,7 @@ This screenshot shows that I successfully connected to my EC2 instance using Put
 <img src="https://i.imgur.com/wsd36ox.png" height="80%" width="80%" alt="Image 4"/>
 
 <H3>Step 3 – Creating bash script and variables</H3>
-The final step is creating the the bash script name for example testscript.sh and creating the variables in a text editor using this command nano testscript.sh.
+The final step is creating the the bash script name for example testscript.sh and creating the variables in a text editor using this command **nano testscript.sh**.
 
 <img src="https://i.imgur.com/nb0aNT5.png" height="80%" width="80%" alt="Image 5"/>
 
