@@ -29,7 +29,7 @@ In the network settings section I left "allow SSH traffic from" ticked as well a
 
 
 <H3>Step 2 – Connecting to EC2 instance </H3>
-Once the EC2 instance was in a running state I connected to it.
+Once the EC2 instance was in a running state I connected to it, by right clicking and selecting connect.
 
 <img src="https://i.imgur.com/kaoMGqH.png" height="80%" width="80%" alt="Image 2"/>
 
